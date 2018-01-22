@@ -70,6 +70,6 @@ cv2.imshow("KeypointsDark", im_with_keypointsD)
 # Show blobs
 
 print ('End')
-print('End3')
+print('End3 ')
 
 cv2.waitKey(0)
