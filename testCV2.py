@@ -131,7 +131,7 @@ for i in range:
     # circles(str(i)+'after',mask,picture)
 
 # cv2.imshow('detected circlesErode',thresh)
-
+#New
 
 
 cv2.waitKey(0)
