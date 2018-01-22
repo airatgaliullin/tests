@@ -69,4 +69,6 @@ im_with_keypointsD = cv2.drawKeypoints(im, keypointsD, np.array([]), (0,0,255), 
 cv2.imshow("KeypointsDark", im_with_keypointsD)
 # Show blobs
 
+print ('End')
+
 cv2.waitKey(0)
