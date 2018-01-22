@@ -5,6 +5,7 @@ Created on Sat Sep 09 21:29:37 2017
 @author: Airtat
 based on https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/
 """
+#Hello!
 
 #123
 
