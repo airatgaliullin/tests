@@ -6,6 +6,8 @@ Created on Sat Sep 09 21:29:37 2017
 based on https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/
 """
 
+#modified!
+
 import cv2
 import numpy as np
 from skimage import measure
