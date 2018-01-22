@@ -68,5 +68,5 @@ keypointsD = detector.detect(im)
 im_with_keypointsD = cv2.drawKeypoints(im, keypointsD, np.array([]), (0,0,255), cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
 cv2.imshow("KeypointsDark", im_with_keypointsD)
 # Show blobs
-
+#Added change!
 cv2.waitKey(0)
