@@ -7,7 +7,7 @@ based on https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spot
 """
 #Hello!
 
-#123
+#56
 
 import cv2
 import numpy as np
