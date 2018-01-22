@@ -131,7 +131,11 @@ for i in range:
     # circles(str(i)+'after',mask,picture)
 
 # cv2.imshow('detected circlesErode',thresh)
+<<<<<<< HEAD
 
+=======
+#New
+>>>>>>> d43fd01679153d66db05dc706469f3ac8380cd70
 
 
 cv2.waitKey(0)
