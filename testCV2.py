@@ -19,7 +19,7 @@ def circles(name, image2, picture_name):
     imgC=cv2.imread(picture_name)
     params = cv2.SimpleBlobDetector_Params()
     params.minDistBetweenBlobs=0
-    params.filterByColor=True
+    params.filterByColor=False
     params.blobColor=255
     
     params.minThreshold = 0
